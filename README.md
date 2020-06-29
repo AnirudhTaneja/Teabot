@@ -1,6 +1,6 @@
 # Teabot
 
-# prerequisite
+### prerequisite
 
 Add a new file under the root and call it "config.js"
 
